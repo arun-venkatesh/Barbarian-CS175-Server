@@ -1,7 +1,7 @@
 # Barbarian-CS175-Server
 
-Team - 4 
-Arun Venkatesh
-Richard Tobing
-Jourdon Freeman
-Mahamadsaad Sheikh
+<b><u>Team - 4</u></b><br>
+Arun Venkatesh<br>
+Richard Tobing<br>
+Jourdon Freeman<br>
+Mahamadsaad Sheikh<br>
